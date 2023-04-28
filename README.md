@@ -41,7 +41,7 @@ This repository is a collection of fun and challenging Python quiz questions for
 
 ## Contributing
 <b>
-<a href="https://https://github.com/creativepuru/Python.Quiz.Questions/pulls">
+<a href="https://https://github.com/creativepuru/Python.Quiz.Questions/">
 If you'd like to contribute to this repository, please feel free to submit a pull request with your own quiz questions or improvements to existing questions. Your contributions are greatly appreciated!
 </a></b>
 
@@ -51,7 +51,7 @@ If you'd like to contribute to this repository, please feel free to submit a pul
 If you have any feedback or suggestions for improvement, please feel free to open an issue or reach out to me directly. I hope you enjoy using this repository and find it helpful in your Python learning journey!
 </a> </b>
 
-# Happy Quizzing!
-<br> </br>
+### Happy Quizzing!
+
 
 <b> <a href="https://www.buymeacoffee.com/creativepuru">🤝 SUPPORT ME 👉🏻 BUY ME A COFFEE</a> </b>
