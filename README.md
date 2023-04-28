@@ -52,6 +52,6 @@ If you have any feedback or suggestions for improvement, please feel free to ope
 </a> </b>
 
 ### Happy Quizzing!
+<br> </br>
 
-
-<b> <a href="https://www.buymeacoffee.com/creativepuru">🤝 SUPPORT ME 👉🏻 BUY ME A COFFEE</a> </b>
+<b> <a href="https://www.buymeacoffee.com/creativepuru">🤝 SUPPORT ME 👉🏻 BUY ME A COFFEE ☕</a> </b>
