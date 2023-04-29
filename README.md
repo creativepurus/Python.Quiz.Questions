@@ -43,7 +43,7 @@ This repository is a collection of fun and challenging Python quiz questions for
 
 <b> <a href="https://github.com/creativepuru/Python.Quiz.Questions/pulls">
 If you'd like to contribute to this repository, please feel free to submit a pull request with your own quiz questions or improvements to existing questions. Your contributions are greatly appreciated!
-</a> </b>
+</a></b>
 
 ## Feedback
 
