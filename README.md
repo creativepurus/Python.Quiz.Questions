@@ -1,6 +1,6 @@
 <p align="right">
 <a href="https://github.com/creativepuru">
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=24&duration=500&pause=100&multiline=true&width=500&height=100&lines=PYTHON;QUIZ;QUESTIONS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=1000&pause=1000&multiline=false&width=500&height=100&lines=PYTHON+QUIZ+QUESTIONS" alt="Typing SVG" />
 </a>
 </p>
 
