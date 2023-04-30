@@ -1,12 +1,13 @@
 > [![Purushottam Anand 🇮🇳 on GitHub ☕](https://github.com/creativepuru.png?size=100)](https://github.com/creativepuru "Purushottam Anand 🇮🇳 on GitHub ☕")
 
 <b>
-<p align="center">
-<a href="https://github.com/creativepuru">
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=false&width=750&height=100&lines=👋+WELCOME+TO+MY+PYTHON+QUIZ+QUESTIONS+REPOSITORY+📘" alt="Typing SVG" />
-</a>
-</p>
 
+<div align="center">
+
+[![WELCOME MESSAGE](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=750&height=60&lines=👋+WELCOME+TO+MY+PYTHON+QUIZ+QUESTIONS+REPOSITORY+📘)](https://github.com/creativepuru/Python.Quiz.Questions)
+
+</div>
+ 
 # 📚 Table of Contents
 - 🔰 ABOUT
 - ⁉ How to use this repository
@@ -48,7 +49,7 @@
 # 🤝 Contributions
 If you'd like to contribute to this repository, please feel free to submit a [Pull Request](https://github.com/creativepuru/Python.Quiz.Questions/pulls) with your own quiz questions or improvements to existing questions. Your contributions are greatly appreciated!
 
-<h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=600&height=40&lines=📲+How+to+reach+me+-+Social+Links+💻+" alt="How to Reach Me Typing SVG" /> </h1>
+<h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=600&height=40&lines=📲+How+to+reach+me+-+Social+Links+💻+" alt="How to Reach Me" /> </h1>
 
 [![Purushottam Anand's LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-round&logo=linkedin)](https://openinapp.co/linkedinpuru "Purushottam Anand's LinkedIn Profile")    <!-- LinkedIn -->
 [![Purushottam Anand's Twitter](https://img.shields.io/badge/-Twitter-white?style=flat-round&logo=twitter)](https://openinapp.co/twitterpuru "Purushottam Anand's Twitter Handle")               <!-- Twitter -->
