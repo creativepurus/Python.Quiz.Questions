@@ -66,8 +66,8 @@ If you'd like to contribute to this repository, please feel free to submit a [Pu
 ### ❤️ Thank you for visiting my repository, and happy exploring 🤗
 
 # 📖 License
-### My [Python Quiz Questions Repository](https://github.com/creativepuru/Python.Quiz.Questions) is licensed under the [Creative Commons Zero v1.0 Universal](https://github.com/creativepuru/Python.Quiz.Questions/blob/main/LICENSE.txt) License. 
-- See [LICENSE](https://github.com/creativepuru/Python.Quiz.Questions/blob/main/LICENSE.txt) for more information.
+### My [Python Quiz Questions Repository](https://github.com/creativepuru/Python.Quiz.Questions) is licensed under the [Creative Commons Zero v1.0 Universal](https://github.com/creativepuru/Python.Quiz.Questions/blob/main/LICENSE) License. 
+- See [LICENSE](https://github.com/creativepuru/Python.Quiz.Questions/blob/main/LICENSE) for more information.
 
 <br> </br>
 
